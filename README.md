@@ -7,7 +7,7 @@
 
 ## **Update**
 ### 2020/06 
-- update AspNetCoreSample to .NET Core 3.1
+- Update AspNetCoreSample to .NET Core 3.1
 - When fisrt time to build and do unit test of this project, you can find the one error issue of unit test result.
 - Controllers / HomeController.cs
     ```
